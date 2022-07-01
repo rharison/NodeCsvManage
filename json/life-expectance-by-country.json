@@ -1,0 +1,734 @@
+[
+  {
+    "country": "Afghanistan",
+    "lifeExpectancy": 65
+  },
+  {
+    "country": "Albania",
+    "lifeExpectancy": 78
+  },
+  {
+    "country": "Algeria",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Angola",
+    "lifeExpectancy": 52
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Argentina",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Armenia",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Australia",
+    "lifeExpectancy": 83
+  },
+  {
+    "country": "Austria",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Azerbaijan",
+    "lifeExpectancy": 73
+  },
+  {
+    "country": "Bahamas",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Bahrain",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "Bangladesh",
+    "lifeExpectancy": 72
+  },
+  {
+    "country": "Barbados",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Belarus",
+    "lifeExpectancy": 72
+  },
+  {
+    "country": "Belgium",
+    "lifeExpectancy": 81
+  },
+  {
+    "country": "Belize",
+    "lifeExpectancy": 71
+  },
+  {
+    "country": "Benin",
+    "lifeExpectancy": 60
+  },
+  {
+    "country": "Bhutan",
+    "lifeExpectancy": 70
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "Botswana",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Brazil",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Brunei Darussalam",
+    "lifeExpectancy": 78
+  },
+  {
+    "country": "Bulgaria",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Burkina Faso",
+    "lifeExpectancy": 60
+  },
+  {
+    "country": "Burundi",
+    "lifeExpectancy": 60
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "lifeExpectancy": 53
+  },
+  {
+    "country": "Cabo Verde",
+    "lifeExpectancy": 73
+  },
+  {
+    "country": "Cambodia",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Cameroon",
+    "lifeExpectancy": 57
+  },
+  {
+    "country": "Canada",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Central African Republic",
+    "lifeExpectancy": 53
+  },
+  {
+    "country": "Chad",
+    "lifeExpectancy": 53
+  },
+  {
+    "country": "Chile",
+    "lifeExpectancy": 85
+  },
+  {
+    "country": "China",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Colombia",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Comoros",
+    "lifeExpectancy": 64
+  },
+  {
+    "country": "Congo",
+    "lifeExpectancy": 65
+  },
+  {
+    "country": "Costa Rica",
+    "lifeExpectancy": 80
+  },
+  {
+    "country": "Croatia",
+    "lifeExpectancy": 78
+  },
+  {
+    "country": "Cuba",
+    "lifeExpectancy": 79
+  },
+  {
+    "country": "Cyprus",
+    "lifeExpectancy": 85
+  },
+  {
+    "country": "Czechia",
+    "lifeExpectancy": 79
+  },
+  {
+    "country": "Democratic People's Republic of Korea",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "lifeExpectancy": 60
+  },
+  {
+    "country": "Denmark",
+    "lifeExpectancy": 86
+  },
+  {
+    "country": "Djibouti",
+    "lifeExpectancy": 64
+  },
+  {
+    "country": "Dominican Republic",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Ecuador",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Egypt",
+    "lifeExpectancy": 79
+  },
+  {
+    "country": "El Salvador",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Equatorial Guinea",
+    "lifeExpectancy": 58
+  },
+  {
+    "country": "Eritrea",
+    "lifeExpectancy": 65
+  },
+  {
+    "country": "Estonia",
+    "lifeExpectancy": 78
+  },
+  {
+    "country": "Ethiopia",
+    "lifeExpectancy": 65
+  },
+  {
+    "country": "Fiji",
+    "lifeExpectancy": 70
+  },
+  {
+    "country": "Finland",
+    "lifeExpectancy": 81
+  },
+  {
+    "country": "France",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Gabon",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Gambia",
+    "lifeExpectancy": 61
+  },
+  {
+    "country": "Georgia",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Germany",
+    "lifeExpectancy": 81
+  },
+  {
+    "country": "Ghana",
+    "lifeExpectancy": 62
+  },
+  {
+    "country": "Greece",
+    "lifeExpectancy": 81
+  },
+  {
+    "country": "Grenada",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Guatemala",
+    "lifeExpectancy": 72
+  },
+  {
+    "country": "Guinea",
+    "lifeExpectancy": 59
+  },
+  {
+    "country": "Guinea-Bissau",
+    "lifeExpectancy": 59
+  },
+  {
+    "country": "Guyana",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Haiti",
+    "lifeExpectancy": 64
+  },
+  {
+    "country": "Honduras",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Hungary",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Iceland",
+    "lifeExpectancy": 83
+  },
+  {
+    "country": "India",
+    "lifeExpectancy": 68
+  },
+  {
+    "country": "Indonesia",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Iran (Islamic Republic of)",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Iraq",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Ireland",
+    "lifeExpectancy": 81
+  },
+  {
+    "country": "Israel",
+    "lifeExpectancy": 83
+  },
+  {
+    "country": "Italy",
+    "lifeExpectancy": 83
+  },
+  {
+    "country": "Jamaica",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Japan",
+    "lifeExpectancy": 84
+  },
+  {
+    "country": "Jordan",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Kazakhstan",
+    "lifeExpectancy": 72
+  },
+  {
+    "country": "Kenya",
+    "lifeExpectancy": 63
+  },
+  {
+    "country": "Kiribati",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Kuwait",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Kyrgyzstan",
+    "lifeExpectancy": 71
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Latvia",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Lebanon",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Lesotho",
+    "lifeExpectancy": 54
+  },
+  {
+    "country": "Liberia",
+    "lifeExpectancy": 61
+  },
+  {
+    "country": "Libya",
+    "lifeExpectancy": 73
+  },
+  {
+    "country": "Lithuania",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Luxembourg",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Madagascar",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Malawi",
+    "lifeExpectancy": 58
+  },
+  {
+    "country": "Malaysia",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Maldives",
+    "lifeExpectancy": 79
+  },
+  {
+    "country": "Mali",
+    "lifeExpectancy": 58
+  },
+  {
+    "country": "Malta",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Mauritania",
+    "lifeExpectancy": 63
+  },
+  {
+    "country": "Mauritius",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Mexico",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "Micronesia (Federated States of)",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Mongolia",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Montenegro",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Morocco",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Mozambique",
+    "lifeExpectancy": 58
+  },
+  {
+    "country": "Myanmar",
+    "lifeExpectancy": 67
+  },
+  {
+    "country": "Namibia",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Nepal",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Netherlands",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "New Zealand",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Nicaragua",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Niger",
+    "lifeExpectancy": 62
+  },
+  {
+    "country": "Nigeria",
+    "lifeExpectancy": 55
+  },
+  {
+    "country": "Norway",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Oman",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "Pakistan",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Panama",
+    "lifeExpectancy": 78
+  },
+  {
+    "country": "Papua New Guinea",
+    "lifeExpectancy": 63
+  },
+  {
+    "country": "Paraguay",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Peru",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Philippines",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Poland",
+    "lifeExpectancy": 78
+  },
+  {
+    "country": "Portugal",
+    "lifeExpectancy": 81
+  },
+  {
+    "country": "Qatar",
+    "lifeExpectancy": 78
+  },
+  {
+    "country": "Republic of Korea",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Republic of Moldova",
+    "lifeExpectancy": 72
+  },
+  {
+    "country": "Romania",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Russian Federation",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Rwanda",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Saint Lucia",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "lifeExpectancy": 73
+  },
+  {
+    "country": "Samoa",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "lifeExpectancy": 68
+  },
+  {
+    "country": "Saudi Arabia",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Senegal",
+    "lifeExpectancy": 67
+  },
+  {
+    "country": "Serbia",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Seychelles",
+    "lifeExpectancy": 73
+  },
+  {
+    "country": "Sierra Leone",
+    "lifeExpectancy": 51
+  },
+  {
+    "country": "Singapore",
+    "lifeExpectancy": 83
+  },
+  {
+    "country": "Slovakia",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "Slovenia",
+    "lifeExpectancy": 88
+  },
+  {
+    "country": "Solomon Islands",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Somalia",
+    "lifeExpectancy": 55
+  },
+  {
+    "country": "South Africa",
+    "lifeExpectancy": 63
+  },
+  {
+    "country": "South Sudan",
+    "lifeExpectancy": 57
+  },
+  {
+    "country": "Spain",
+    "lifeExpectancy": 83
+  },
+  {
+    "country": "Sri Lanka",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Sudan",
+    "lifeExpectancy": 64
+  },
+  {
+    "country": "Suriname",
+    "lifeExpectancy": 72
+  },
+  {
+    "country": "Swaziland",
+    "lifeExpectancy": 59
+  },
+  {
+    "country": "Sweden",
+    "lifeExpectancy": 82
+  },
+  {
+    "country": "Switzerland",
+    "lifeExpectancy": 83
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "lifeExpectancy": 65
+  },
+  {
+    "country": "Tajikistan",
+    "lifeExpectancy": 70
+  },
+  {
+    "country": "Thailand",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "The former Yugoslav republic of Macedonia",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Timor-Leste",
+    "lifeExpectancy": 68
+  },
+  {
+    "country": "Togo",
+    "lifeExpectancy": 60
+  },
+  {
+    "country": "Tonga",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "lifeExpectancy": 71
+  },
+  {
+    "country": "Tunisia",
+    "lifeExpectancy": 75
+  },
+  {
+    "country": "Turkey",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Turkmenistan",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Uganda",
+    "lifeExpectancy": 62
+  },
+  {
+    "country": "Ukraine",
+    "lifeExpectancy": 71
+  },
+  {
+    "country": "United Arab Emirates",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "lifeExpectancy": 81
+  },
+  {
+    "country": "United Republic of Tanzania",
+    "lifeExpectancy": 62
+  },
+  {
+    "country": "United States of America",
+    "lifeExpectancy": 79
+  },
+  {
+    "country": "Uruguay",
+    "lifeExpectancy": 77
+  },
+  {
+    "country": "Uzbekistan",
+    "lifeExpectancy": 69
+  },
+  {
+    "country": "Vanuatu",
+    "lifeExpectancy": 72
+  },
+  {
+    "country": "Venezuela (Bolivarian Republic of)",
+    "lifeExpectancy": 74
+  },
+  {
+    "country": "Viet Nam",
+    "lifeExpectancy": 76
+  },
+  {
+    "country": "Yemen",
+    "lifeExpectancy": 66
+  },
+  {
+    "country": "Zambia",
+    "lifeExpectancy": 62
+  },
+  {
+    "country": "Zimbabwe",
+    "lifeExpectancy": 67
+  }
+]
