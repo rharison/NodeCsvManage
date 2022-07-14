@@ -10,4 +10,4 @@ Como é um projeto pequeno não instalei nenhum monitor de script como o nodemon
 
 **Técnologia utilizada:**
 
-Node JS com o módugo file stream.
+Node JS com o módulo file stream.
